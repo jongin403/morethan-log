@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "jjongins-log",
-    description: "welcome to jjongins-log!",
+    title: "JJongIns Dev Log",
+    description: "welcome to JJongIns Dev Log!",
   },
 
   // CONFIG configration (required)
